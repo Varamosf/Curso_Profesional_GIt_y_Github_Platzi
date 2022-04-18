@@ -5,3 +5,5 @@ Mi fecha de nacimiento es el 15.Agosto.1991
 Soy Ingeniero en Robótica Industrial.
 
 Hoy les hablaré un poco sobre mí.
+
+Me gusta aprender idiomas, actualmente hablo 5: Inglés, Francés, Alemán, Japonés y Español.
