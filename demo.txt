@@ -1,6 +1,6 @@
 Éste es un mensaje de prueba del curso de Git.
 
-Yo soy Victor Ramos. Tengo 30 años y nací en México.
+Yo soy Victor Ramos. Tengo 30 años y nací en Estado de México.
 Mi fecha de nacimiento es el 15.Agosto.1991
 Soy Ingeniero en Robótica Industrial.
 
