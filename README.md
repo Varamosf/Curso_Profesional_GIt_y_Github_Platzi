@@ -17,4 +17,6 @@
 
 <p>Creado para pruebas de comando Cherry-pick</p>
 
+<p>Ejemplos de Stash, Clean, Rebase y Cherry-pick</p>
+<p>Disponible desde el 22.Abril.2022</p>
 <p>Puedes contactarme a <a>varamosf@gmail.com</a>.</p>
