@@ -15,4 +15,6 @@
 - Angular.js
 </p>
 
+<p>Creado para pruebas de comando Cherry-pick</p>
+
 <p>Puedes contactarme a <a>varamosf@gmail.com</a>.</p>
