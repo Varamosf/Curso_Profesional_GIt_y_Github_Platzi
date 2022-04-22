@@ -16,5 +16,5 @@
 </p>
 
 <p>Creado para pruebas de comando Cherry-pick</p>
-
+<p>Ejemplos de Stash, Clean, Rebase y Cherry-pick</p>
 <p>Puedes contactarme a <a>varamosf@gmail.com</a>.</p>
